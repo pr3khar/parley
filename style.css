@@ -276,6 +276,7 @@ iframe{
   font-family: sofia-pro;
   color:var(--bg-light);
   line-height: 50px;
+  text-align:left;
 }
 
 #footer{
